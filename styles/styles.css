@@ -1,0 +1,107 @@
+body{
+    background-color: white;
+    font-family: "Inter";
+    margin: 0% 5% !important;
+}
+
+h1{
+    font-size: 4rem !important;
+    margin: 0px !important;
+}
+
+
+/* Navigation */
+
+.navbar{
+    padding: 6% 0% 3% !important;
+
+}
+
+.navbar-brand{
+    font-family: 'DM Serif Display', serif;
+    font-size: 3rem !important;
+    font-weight: 700;
+}
+
+.nav-item{
+   padding: 0px 15px !important;
+}
+.navbar-container{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.latest-news-outerbox{
+    padding-left: 0% !important;
+}
+.news-box{
+    background-color: black;
+    padding: 3% 3% !important;
+    
+}
+
+.read-more-button{
+    
+}
+
+.news-row{
+    padding: 10% 0% 10%;
+    color: white;
+}
+
+.news-box-heading{
+    color: orange;
+    font-size: 2rem;;
+}
+
+.news-row-heading{
+    padding-bottom: 2% !important;
+}
+
+.web-3{
+    padding: 0px !important;
+}
+
+.latest-news-box1{
+    padding-top: 7%;
+    padding-left: 0px !important; 
+}
+
+.latest-news-box2{
+    padding-top: 7%;
+    padding-left: 0px !important; 
+    font-size: 1.25rem;
+    color: grey; 
+}
+
+.latest-news-text{
+    padding-bottom: 15%;
+}
+
+#latest-news{
+    padding-bottom: 7%;;
+}
+
+#news-articles{
+    margin-bottom: 10%;
+}
+
+.news-articles-img{
+    padding-right: 5%;
+    width: 50% !important;
+}
+
+.news-article-number{
+    font-size: 4rem;
+    color: rgb(169, 166, 166);
+    padding-bottom: 5%;
+}
+
+.news-article-heading{
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.news-articles-box{
+    padding-left: 0% !important;
+}
